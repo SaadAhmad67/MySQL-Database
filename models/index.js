@@ -3,8 +3,8 @@ function connection(){
 const connection = mysql.createConnection({
     host:"localhost",
     user:"root",
-    password:"saad123",
-    database:"fbdb"
+    password:"Enter your password here",
+    database:"Enter your database name here"
 })
 return connection.promise();
 }
