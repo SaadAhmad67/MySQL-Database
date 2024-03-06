@@ -17,6 +17,31 @@ Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
 Launches the test runner in the interactive watch mode.\
 See the section about [[running tests](http://localhost:4000)] for more information.
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/wasifbaliyan/probook-client.git
+```
+
+Go to the project directory
+
+```bash
+  cd probook-client
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start react app
+
+```bash
+  npm start
+```
 
 
 
