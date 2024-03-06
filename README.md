@@ -15,7 +15,7 @@ Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [[running tests](http://localhost:4000)] for more information.
 
 
 
