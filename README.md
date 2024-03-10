@@ -12,7 +12,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
 
-### `npm test`
+### `npm check`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [[running tests](http://localhost:4000)] for more information.
