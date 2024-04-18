@@ -37,10 +37,6 @@ Install dependencies
   npm install
 ```
 
-Start react app
-
-```bash
-  npm start
 ```
 
 
