@@ -19,11 +19,6 @@ See the section about [[running tests](http://localhost:4000)] for more informat
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/wasifbaliyan/probook-client.git
-```
 
 
 
