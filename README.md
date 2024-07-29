@@ -25,13 +25,6 @@ Clone the project
   git clone https://github.com/wasifbaliyan/probook-client.git
 ```
 
-Go to the project directory
-
-```bash
-  cd probook-client
-```
-
-Install dependencies
 
 
 
